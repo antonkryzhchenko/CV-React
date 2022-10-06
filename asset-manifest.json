@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/antonkryzhchenko/CV-React.git/static/css/main.9a4c0520.css",
+    "main.js": "/antonkryzhchenko/CV-React.git/static/js/main.96491e5f.js",
+    "static/media/avatar.png": "/antonkryzhchenko/CV-React.git/static/media/avatar.ed90fdefea33b4500a01.png",
+    "static/media/github.png": "/antonkryzhchenko/CV-React.git/static/media/github.f11021803f68852df283.png",
+    "static/media/email.png": "/antonkryzhchenko/CV-React.git/static/media/email.51b08bcbb5af7a861c31.png",
+    "index.html": "/antonkryzhchenko/CV-React.git/index.html",
+    "main.9a4c0520.css.map": "/antonkryzhchenko/CV-React.git/static/css/main.9a4c0520.css.map",
+    "main.96491e5f.js.map": "/antonkryzhchenko/CV-React.git/static/js/main.96491e5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a4c0520.css",
+    "static/js/main.96491e5f.js"
+  ]
+}
